@@ -45,8 +45,6 @@ bool LinkedList<T>::search(T value) const
 		Fix this method
 	*/
 
-	
-
 	return(isFound);
 }
 
